@@ -1,0 +1,11 @@
+# File Eksekusi & Arsip
+ffmpeg.exe
+ffmpeg.zip
+ffmpeg_ext/
+
+# Folder Hasil Output (Agar tidak memenuhi GitHub)
+Optimized_Status/
+
+# File Sampah Windows
+Thumbs.db
+Desktop.ini
